@@ -1,3 +1,0 @@
-- Probando.
-- Con ánimos.
-- De algo provechoso.
