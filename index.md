@@ -1,4 +1,1 @@
----
-title: Hello world!
----
-testing the waters
+A blog about roleplaying games.
