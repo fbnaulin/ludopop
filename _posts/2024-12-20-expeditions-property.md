@@ -14,16 +14,16 @@ The Civilope was used to create rooms for underlings (workers), and send them in
 ## Targets
 To send a new expedition, make an investment, select a target, choose a risk level, and roll for “Days taken”. When Days taken have been completed, the expedition has returned.
 
-| Investment | Extra (1%) | Target                 | Result                                          |
-|------------|------------|------------------------|-------------------------------------------------|
-| 1000sp     | +100sp     | Surveying: 100 caves   | Information about random cave (1d100)           |
-| 1000sp     | +100sp     | Surveying: 100 pariahs | Information about random pariah (1d100)         |
-| 3000sp     | +300sp     | Notable underling      | 1-3 Gnonmen. 4-5 Dvargir. 6 Ælf-Adal. 1d4 level |
-| 2000sp     | +200sp     | Laboratory materials   | 1d100 * 10 value                                |
-| 3000sp     | +200sp     | Library books          | 1d100 * 10 value                                |
-| 3000sp     | +300sp     | Twenty Lamps           | Random lamp (1d20)                              |
-| 3000sp     | +300sp     | Speleo spell scroll    | Random scroll (1d30)                            |
-| 5000sp     | +500sp     | Civilopede treasure    | Random treasure (1d100)                         |
+| **Investment** | **Extra (1%)** | **Target**             | **Result**                                      |
+|:--------------:|:--------------:|------------------------|-------------------------------------------------|
+|     1000sp     |     +100sp     | Surveying: 100 caves   | Information about random cave (1d100)           |
+|     1000sp     |     +100sp     | Surveying: 100 pariahs | Information about random pariah (1d100)         |
+|     3000sp     |     +300sp     | Notable underling      | 1-3 Gnonmen. 4-5 Dvargir. 6 Ælf-Adal. 1d4 level |
+|     2000sp     |     +200sp     | Laboratory materials   | 1d100 * 10 value                                |
+|     2000sp     |     +200sp     | Library books          | 1d100 * 10 value                                |
+|     3000sp     |     +300sp     | Twenty Lamps           | Random lamp (1d20)                              |
+|     3000sp     |     +300sp     | Speleo spell scroll    | Random scroll (1d30)                            |
+|     5000sp     |     +500sp     | Civilopede treasure    | Random treasure (1d100)                         |
 
 Optionally, you can double the Result at a chance of 1-in-100 investing an Extra. This chance could be incremented paying for the Extra multiple times, but you only roll once.
 
