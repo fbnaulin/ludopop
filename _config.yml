@@ -2,6 +2,9 @@ theme: minima
 title: ludopop
 author: fbnaulin
 description: roleplaying games blog
+paginate: 1
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
 
 plugins:
   - jekyll-feed
