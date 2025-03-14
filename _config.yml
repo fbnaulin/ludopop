@@ -2,3 +2,9 @@ theme: minima
 title: ludopop
 author: fbnaulin
 description: roleplaying games blog
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
