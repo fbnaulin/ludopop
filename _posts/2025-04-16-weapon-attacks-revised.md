@@ -6,8 +6,8 @@ About resolving attacks using mapuche melee, and ranged weapons.
 
 # Attacking
 When attacking with a weapon, make and Attack Roll, rolling a d20. If the result is:
-Equal or higher than target to-Hit value, the Attack is sucessful: roll a d6 + weapon Damage, and substract the result from the target's HP.
-Equal or lower than weapon's Detriment number, you provoke a Detriment instead.
+- Equal or higher than target to-Hit value, the Attack is sucessful: roll a d6 + weapon Damage, and substract the result from the target's HP.
+- Equal or lower than weapon's Detriment number, you provoke a Detriment instead.
 
 Target to-Hit value is equivalent to his Armor, minus your correspoding combat Prowess (Melee, Ranged).
 
