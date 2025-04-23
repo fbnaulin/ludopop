@@ -1,6 +1,6 @@
 ---
 title: "Weapon attacks"
-date: 2025-04-16
+date: 2025-04-23
 version: 3.0
 ---
 About resolving attacks using mapuche melee, and ranged weapons.
@@ -47,11 +47,11 @@ Detriment is a nocive wound or bad spot produced by a weapon.
 Its value represents the probability of a harmful situation occurring. Higher is better.
 When a Detriment is triggered, evaluate the Damage dice result to find its Severity.
 
-| **Detriment** |       **1–4 Mild**      |  **5–6 Moderate**  |   **7–8 Severe**  |
-|---------------|:-----------------------:|:------------------:|:-----------------:|
+| **Detriment** | **1–4 Mild**            | **5–6 Moderate**   | **7–8 Severe**    |
+|---------------|-------------------------|--------------------|-------------------|
 | Slashing      | Cutting                 | Bleeding           | Dismembering      |
 | Crushing      | Spoil armor / Knockback | Stun / Break armor | Shatter bones     |
-| Piercing      | Prick                   | Counterattack      | Impale            |
+| Piercing      | Prick                   | Counter attack     | Impale            |
 | Grappling     | Disarm / unbalance      | Prone, dismount    | Constrict (choke) |
 
 Treat this table as a reference for common effects, referee could adjust depending on the state of affairs.
