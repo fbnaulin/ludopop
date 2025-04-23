@@ -43,9 +43,9 @@ Some weapons could be thrown, other fire projectiles.
 | Stone         |     1d2    | Crushing 1               | Improvised  |
 
 # Detriment
-Detriment is a nocive wound or bad spot produced by a weapon.
-Its value represents the probability of a harmful situation occurring. Higher is better.
-When a Detriment is triggered, evaluate the Damage dice result to find its Severity.
+Detriment is a nocive wound or bad spot produced by a weapon.<br>
+Its value represents the probability of a harmful situation occurring. Higher is better.<br>
+When a Detriment is triggered, evaluate the Damage dice result to find its Severity.<br>
 
 | **Detriment** | **1–4 Mild**            | **5–6 Moderate**   | **7–8 Severe**    |
 |---------------|-------------------------|--------------------|-------------------|
@@ -54,7 +54,7 @@ When a Detriment is triggered, evaluate the Damage dice result to find its Sever
 | Piercing      | Prick                   | Counter attack     | Impale            |
 | Grappling     | Disarm / unbalance      | Prone, dismount    | Constrict (choke) |
 
-Treat this table as a reference for common effects, referee could adjust depending on the state of affairs.
+Treat this table as a reference for common effects, referee could adjust depending on the state of affairs.<br>
 When determining your own Detriment effects, consider position, terrain, combat stance.
 
 Common effects in target:
