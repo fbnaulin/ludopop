@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Inicio"
+title: "home"
 ---
 
 ### A blog about roleplaying games
