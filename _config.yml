@@ -5,6 +5,7 @@ description: roleplaying games blog
 paginate: 1
 paginate_path: "/:num/"
 date_format: "%b %-d, %Y"
+excerpt_separator: <!--leer más-->
 
 plugins:
   - jekyll-feed
