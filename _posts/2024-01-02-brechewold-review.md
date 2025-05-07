@@ -4,6 +4,8 @@ date: 2024-01-02
 ---
 The Yellow Book of Brechewold (Lamentations of the Flame Princess, 2023) is a RPG adventure that revolves around a wizard school, its dungeons, and surroundings. It's mainly based on T.H. White's Once and Future King, with arthurian lore as background.
 
+<!--leer más-->
+
 At the begginning of each session, players pick new tutorials from school teachers. Then, the teachers reveal secrets that works as adventure hooks. Tutorials have titles like Binding Spirits, Reanimation, or Dwarven Runes, but they don't offer any description, nor mechanical effect. For a game about a magic school, we expected more substance and impact into the gameplay. It never felt as the alumni were adquiring new and unique magic or knowledge from some lessons.
 
 We had three problems with secrets: sometimes, they were already known to the party, since they discovered them exploring the dungeons or surroundings; or, they were useless being tied to random encounters that never happened; or, there were not secrets at all, when a third player took the same teacher (9 tutorials, but 7 secrets).
