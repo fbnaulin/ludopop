@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "ludopop"
+title: "Inicio"
 ---
 
 {% for post in site.posts %}
