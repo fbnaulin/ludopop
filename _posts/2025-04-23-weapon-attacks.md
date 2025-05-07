@@ -1,6 +1,7 @@
 ---
 title: "Weapon attacks"
 date: 2025-04-23
+tags: [The Land Around, Homebrew, Combat]
 version: 3.0
 ---
 About resolving attacks using mapuche melee, and ranged weapons.
