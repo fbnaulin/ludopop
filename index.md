@@ -17,7 +17,7 @@ title: "Inicio"
 
 **Etiquetas:**  
 {% for tag in post.tags %}
-- [{{ tag }}](/tags/{{ tag }})
+{{ post.tags | join: ", " }}
 {% endfor %}
 
 <small>{{ post.date | date: "%d %b %Y" }}</small>
