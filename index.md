@@ -12,6 +12,3 @@ title: "Inicio"
 {% for tag in post.tags %}
 {{ post.tags | join: ", " }}
 {% endfor %}
-
-<small>{{ post.date | date: "%d %b %Y" }}</small>
-{% endfor %}
