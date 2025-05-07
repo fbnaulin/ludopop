@@ -4,6 +4,8 @@ date: 2023-10-26
 ---
 So, I'm running The Cursed Chateau for Lamentations of the Flame Princess. This has been my experience introducing the module to my group, who are very goal-oriented type of people.
 
+<!--leer más-->
+
 First: I bought the book because its black / golden printed colors, and thinking it was similar to Akumajō Dracula (Castlevania), or Val Helsing, you know. After reading it, I could find some vibes to my own expectations, then I liked it.
 
 Following book advice, I introduced the PC with an old relative to the Ayarai family. In this case: Jôrgi Ayarai, a dweller from Las Chòtas village. Las Chòtas had a better past, but now it is almost abandoned, and restoring the Ayarai state to its rightful heir, could help to revive the region (according to Jôrgi).
