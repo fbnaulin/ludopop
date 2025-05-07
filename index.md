@@ -12,6 +12,7 @@ title: "Inicio"
 
 {% for tag in post.tags %}
 <small>{{ post.tags | join: ", " }}</small>
+{% endfor %}
 
 <small>{{ post.date | date: "%d %b %Y" }}</small>
 {% endfor %}
