@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Etiquetas"
-permalink: /etiquetas/
+title: "tags"
+permalink: /tags/
 ---
 
 {% for tag in site.tags %}
