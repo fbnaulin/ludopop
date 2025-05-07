@@ -3,6 +3,14 @@ layout: default
 title: "home"
 ---
 
+<nav>
+  <ul>
+    {% for item in site.data.navigation.menu %}
+      <li><a href="{{ item.url }}">{{ item.title }}</a></li>
+    {% endfor %}
+  </ul>
+</nav>
+
 ### A blog about roleplaying games
 
 {% for post in site.posts %}
