@@ -1,0 +1,11 @@
+---
+layout: default
+---
+
+# Publicaciones etiquetadas con "{{ page.tag }}"
+
+{% for post in site.posts %}
+  {% if post.tags contains page.tag %}
+  - [{{ post.title }}]({{ post.url }})
+  {% endif %}
+{% endfor %}
