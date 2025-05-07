@@ -4,6 +4,8 @@ date: 2024-12-20
 ---
 I made a homebrew subsystem of Expeditions and Property for Veins of the Earth combining elements from Rules & Magic: Property and Finance chapter with my own ideas.
 
+<!--leer más-->
+
 My intention was to convert VotE 100 treasures in some kind of collectibles the players could found and complete.
 
 We transformed the Civilopede in a sort of mobile headquarters at the end of campaign, with its own underground routes that served as fast travel. At the same time, Civilopede was a museum where treasures, books, and materials where collected and exhibited.
