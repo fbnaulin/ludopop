@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Mi Blog"
+title: "ludopop"
 ---
 
 {% for post in site.posts %}
