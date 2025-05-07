@@ -5,6 +5,8 @@ version: 3.0
 ---
 About resolving attacks using mapuche melee, and ranged weapons.
 
+<!--leer más-->
+
 # Attacking
 When attacking with a weapon, make an Attack Roll (d20). If the result is:
 - Equal or higher than target to-Hit value, the Attack is sucessful: roll a Damage dice, and substract the result from the target's HP.
