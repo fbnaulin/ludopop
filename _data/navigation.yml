@@ -1,8 +1,6 @@
 menu:
-  - title: home
-    url: /
   - title: blog
-    url: /blog/
+    url: /
   - title: tags
     url: /tags/
   - title: about
