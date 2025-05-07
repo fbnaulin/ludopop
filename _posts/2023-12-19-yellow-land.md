@@ -4,6 +4,8 @@ date: 2023-12-19
 ---
 I bought The Yellow Book of Brechewold because I like yellow color. And, considering almost every book in the LotFP line has a black spine, it helps it makes my shelf prettier. Nice.
 
+<!--leer más-->
+
 But, the book picked my curiosity and I read it. It has a lovely premise: an arthurian school of mages and an structure that I dig: small hexcrawl, discrete mega dungeon and a central hub with rumours. As a result, I bring it to the table.
 
 As now, we have been running a little campaing around Brechewold. The dungeons has been interesting, they work. Each level has its own secrets and the layouts are very friendly and navigable. It does not have that oppresive and lethal feel of other LotFP modules (like Veins of the Earth). It's more light-hearted and safe.
