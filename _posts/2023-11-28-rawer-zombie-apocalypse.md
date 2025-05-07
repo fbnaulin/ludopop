@@ -4,6 +4,8 @@ date: 2023-11-28
 ---
 We played two sessions of Zombie World. The group liked it, but we made some tweaks, here they are:
 
+<!--leer más-->
+
 The Survivor Deck was unconfortable due to its constant shuffling and circulation around the players. In the second session we implemented bags with color tokens, each player with its own bag, using the same results distribution: 1 Gold = Triumph, 1 Silver = Opportunity, 3 Green = Edge, 6 Blue = Miss.
 
 Edge results felt more "fail" than "sucess", and that's a good thing, because in Zombie World system you 're-roll' the PbtA 2d6. For example, if the move tell you to Draw Savagery and you have 3 in that Stat, you roll 3 times 2d6 (without reposition) and take the best result. A companion could Mark Stress and give you 1-3 extra re-rolls (=Draws).
