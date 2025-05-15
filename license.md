@@ -1,3 +1,9 @@
+---
+layout: default
+title: "license"
+permalink: /license/
+---
+
 Attribution-NonCommercial-ShareAlike 4.0 International
 
 =======================================================================
