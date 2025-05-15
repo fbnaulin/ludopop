@@ -1,0 +1,16 @@
+theme: minima
+title: ludopop
+author: fbnaulin
+description: roleplaying games blog
+paginate: 1
+paginate_path: "/:num/"
+date_format: "%b %-d, %Y"
+excerpt_separator: <!--leer más-->
+collections:
+  tags:
+    output: true
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate

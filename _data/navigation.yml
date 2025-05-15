@@ -1,0 +1,7 @@
+menu:
+  - title: blog
+    url: /
+  - title: tags
+    url: /tags/
+  - title: about
+    url: /about/
