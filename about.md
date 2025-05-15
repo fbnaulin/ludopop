@@ -6,4 +6,8 @@ permalink: /about/
 
 ### About me
 
-Just a guy.
+Francisco Bustos, Librarian. Current commitments:
+- TOR 1e campaign.
+- The Land Around design.
+- Solo journaling RPG school workshop.
+- LaTeX template for self publishing.
