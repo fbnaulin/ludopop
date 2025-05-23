@@ -1,6 +1,6 @@
 ---
 title: "Resolution in TLA"
-date: 2025-05-25
+date: 2025-05-23
 tags: game desing, the land around
 ---
 
