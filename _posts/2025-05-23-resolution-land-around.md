@@ -6,6 +6,8 @@ tags: game desing, the land around
 
 I've seen two types of resolution in roleplaying games: as prompt, and as chance.
 
+<!--leer más-->
+
 ## As prompt
 The game propose that players consult a randomizer based on character statistics. The result is usually modify game state, and the player is invited to incorporate or justify that change in the fiction. The result could help creativity.
 
