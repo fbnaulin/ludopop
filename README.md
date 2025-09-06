@@ -1,10 +1,10 @@
 # Ludopop
 
-Ludopop is a site build using [Just the Docs](https://just-the-docs.com/) theme for Jekyll.
+Ludopop is a site built using the [Just the Docs](https://just-the-docs.com/) theme for Jekyll.
 
-I created it to have a small repertoire of ideas worth to be written and shared, in an archive better organized for reference, modularity, and growth; than the usual private blog plattforms.
+I created it to have a small repertoire of ideas worth writing and sharing, in an archive better organized for reference, modularity, and growth than the usual private blog platforms.
 
-Contents are writen using Markdown, and I expect to share some assets in LaTeX.
+Content is written using Markdown, and I expect to share some assets in LaTeX.
 
 ## Licensing and Attribution
 

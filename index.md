@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 1
 ---
 
 Ludopop is a personal collection of homebrew resources for tabletop role‑playing games, especially in the old‑school style (OSR). It includes:
