@@ -6,54 +6,74 @@ parent: "The Land Around"
 ---
 
 # Activities
-Wanderers engage if various Activities to accomplish their goals. Activities fall into two categories:
-- Undertakings, performed in the wilderness, and;
+Wanderers perform Activities to pursue their goals. Activities are divided into two categories:
+- Undertakings, carried out in the wilderness;
 - Endeavors, carried out within settlements.
 
 ## Undertakings
-Undertakings are done into the wild, primarly to survive to the hazards of the land.
+Undertakings are activities performed in the wild, focused on travel, survival, and dealing with the hazards of the land.
 
-### Trailblazing
-Creating and finding paths through untamed wilderness: charting shortcuts, making maps, and navigating unknown territory.
+Referee should call an Undertaking roll, when a Wanderer is trying something very risky, with a low chance of being succesful. Player rolls d6 and if the result is equal to, or less than the Undertaking score, the action is successful.
 
-### Vigilance
-Maintaining constant alertness to danger and subtle clues: spotting ambushes, reading signals, and evading traps.
-
-### Prospecting
-Identifying and locating valuable geological resources like minerals, stone, oil, clay, and natural pigments.
-
-### Hunting
-Tracking, trapping, and harvesting wild game: setting snares, pursuing animals, and following tracks.
+Undertakings have a score of 1. They can be improved with Experience.
 
 ### Foraging
-Securing essential sustenance and materials from the environment: gather food, herbs, pure water, and usable wood.
+Securing food and basic materials from the environment: hunting and trapping animals, gathering edible plants and herbs, and finding drinkable water and usable wood.
 
-### Forecasting
-Predicting future events by reading environmental and supernatural signs: weather watching, interpreting omens, and making predictions.
+### Foresight
+Anticipating future events by reading natural and supernatural signs: observing weather patterns, interpreting omens, and sensing impending danger or opportunity.
 
-### Sheltering
-Providing protection and care in the wild: building a refuge, making fire, and administering field medicine.
+### Rivercraft
+Traveling and working on rivers using small watercraft: paddling, maneuvering currents, navigating rapids, and safely crossing waterways.
+
+### Scavenging
+Locating and collecting raw natural materials: stone, clay, minerals, pigments, and other surface resources useful for tools, construction, or trade.
+
+### Sheltercraft
+Establishing safety in the wild: building shelters, making and maintaining fire, and providing basic field care for wounds and exhaustion.
+
+### Trailblazing
+Finding and creating routes through wilderness: navigating unfamiliar terrain, marking paths, mapping the land, and identifying safe or efficient passages.
+
+### Watch
+Keeping watch for threats and signs while traveling or resting: spotting ambushes, noticing disturbances, and detecting traps or hidden dangers.
 
 ## Endeavors
-When interacting in a settlement, Wanderers may spend their time in different tasks:
+When interacting within a settlement, Wanderers may devote their time to different endeavors.
 
-### Trading
-Exchanging goods and services through barter or haggling: negotiating fair deals, swapping rare items, and building trust with traders.
+Endeavors success depends on settlement hospitality towards Wanderers. Use the Reaction table to evaluate if the desired actions are permited in that place.
 
-### Crafting
-Shaping raw materials into useful tools or art: forging weapons, repairing gear, weaving textiles, and performing skilled labor.
+Each Wanderer may choose one Endeavor, then roll 2d6 + PRE:
 
-### Healing
-Restoring health and vitality: practicing medicine, tending wounds, brewing remedies, and guiding recovery.
+| **Roll** | **Reaction** | **Settlement…**                    |
+|:--------:|:------------:|------------------------------------|
+|     2    |    Hostile   | Attacks the Wanderer.              |
+|    3–5   |  Unfriendly  | Refuses to colaborate.             |
+|    6–8   |  Indifferent | Offers a fair deal.                |
+|   9–11   |   Talkative  | Offers a generous deal.            |
+|    12    |    Helpful   | Provides unconditional assistance. |
 
-### Performing
-Entertaining and inspiring others: storytelling, dance, music, sport, and communal displays of talent.
+Modify results comparing Settlement and Wanderer Aligments: Equal (+2), Different (–2), Opposite (–4).
+
+Endeavors also requiere time to complete.
+
+### Handicraft
+Shaping raw materials into useful tools or art: forging weapons, repairing gear, weaving textiles, and other skilled manual work.
+
+### Inquiry
+Uncovering knowledge and secrets by studying vestiges, asking questions, gathering rumors, and piecing together information.
+
+### Mending
+Restoring health and vitality: treating wounds, easing fatigue or trauma, brewing remedies, and guiding recovery.
 
 ### Parleying
-Engaging in dialogue to resolve disputes or gain favor through oratory, negotiation, diplomacy, and persuading audiences.
+Using dialogue to resolve disputes or gain favor: negotiation, diplomacy, persuasion, and formal oratory.
 
-### Researching
-Uncovering knowledge and secrets studying vestiges, asking questions, gathering hints, and piecing together information.
+### Performing
+Entertaining or inspiring others through public display: storytelling, music, dance, sport, and communal performance.
 
 ### Tending
-Nurturing the well-being of people, animals, and places: caring for others, feeding livestock, maintaining homes, and preserving sacred sites.
+Nurturing the well-being of people, animals, and places: caring for others, feeding livestock, maintaining dwellings, and preserving sacred sites.
+
+### Trading
+Exchanging goods and services through barter or haggling: negotiating deals, trading valuables, and building trust with merchants.
