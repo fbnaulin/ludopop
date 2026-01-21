@@ -14,7 +14,7 @@ The Land Around uses a set of four abilities:
 Toughness, strength, and vitality. It determines your Health and is used for wielding Hand-to-Hand weapons.
 
 - **Dexterity (DEX)**  
-Agility, reflexes, and finesse. It affects your Defense and is the core attribute for Projectile weapons.
+Agility, reflexes, and finesse. It affects armor class, ability to hit with Projectile weapons, and to act first in combat.
 
 - **Cunning (CUN)**  
 Ingenuity, sagacity, and mental quickness. It is important when wielding Firearms.
@@ -25,7 +25,6 @@ Eloquence, tradition, and communal sense. It influences Saving Throws and Reacti
 ## Terminology
 For thematic reasons The Land Around uses equivalent terms for:
 - Hit Points = Health
-- Armor Class = Defense
 - Melee = Hand-to-Hand
 - Missile = Projectile
 
